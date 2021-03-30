@@ -37,3 +37,7 @@ These are are a series of assignments to teach front end JavaScript using pure J
 * [Browser Sync Homepage](https://browsersync.io)
 * [SCSS Homepage](https://sass-lang.com/guide)
 * [Markdown Cheat Sheet Reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+#Assigment Pictures
+[Screenshots](screenshots/Screenshot%20(49).png)
+[Screenshots](screenshots/Screenshot%20(50).png)
